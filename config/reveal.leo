@@ -338,7 +338,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181029153029.2">### 我的YouYube網址
+<t tx="leo.20181029153029.2">### 我的YouTube網址
 
 *[YouTube](https://www.youtube.com/channel/UCsnREQHMrYexL1bhZUDnObQ?view_as=subscriber) 
 
